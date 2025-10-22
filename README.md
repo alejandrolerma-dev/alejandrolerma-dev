@@ -1,6 +1,6 @@
-## Hi there 👋
 
-<!--[README.md](https://github.com/user-attachments/files/23061964/README.md)
+[README.md](https://github.com/user-attachments/files/23061975/README.md)
+
 # Hi, I'm Alejandro Lerma! 👋
 
 
@@ -33,18 +33,3 @@
 If you have any feedback, please reach out to us at alejandrolerma@vt.edu
 
 
-
-
-**alejandrolerma-dev/alejandrolerma-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
